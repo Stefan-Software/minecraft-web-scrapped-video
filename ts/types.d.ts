@@ -1,0 +1,1 @@
+export type cube = 'grass' | 'dirt'
